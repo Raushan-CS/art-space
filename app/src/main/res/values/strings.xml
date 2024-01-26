@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="the_starry_night">The Starry Night</string>
+    <string name="the_kiss">The Kiss</string>
+    <string name="the_garden_of_earthly_delights">The Garden of Earthly Delights</string>
+    <string name="the_birth_of_venus">The Birth of Venus</string>
+    <string name="girl_with_a_pearl_earring">Girl with a Pearl Earring</string>
+    <string name="arrangement_in_grey_and_black_no__1">Arrangement in Grey and Black No. 1</string>
+    <string name="les_demoiselles_davignon">Les Demoiselles d’Avignon</string>
+    <string name="the_arnolfini_portrait">The Arnolfini Portrait</string>
+    <string name="sunday_afternoon_on_the_island_of_la_grande_jatte"> A Sunday Afternoon on the Island of La Grande Jatte</string>
+    <string name="mona_lisa">Mona Lisa</string>
+
+    <string name="the_starry_night_artist">Vincent van Gogh</string>
+    <string name="the_kiss_artist">Gustav Klimt</string>
+    <string name="the_garden_of_earthly_delights_artist">Hieronymus Bosch</string>
+    <string name="the_birth_of_venus_artist">Sandro Botticelli</string>
+    <string name="girl_with_a_pearl_earring_artist">Johannes Vermeer</string>
+    <string name="arrangement_in_grey_and_black_no__1_artist">James Abbott McNeill Whistler</string>
+    <string name="les_demoiselles_davignon_artist">Pablo Picasso</string>
+    <string name="the_arnolfini_portrait_artist">Jan van Eyck</string>
+    <string name="sunday_afternoon_on_the_island_of_la_grande_jatte_artist">Georges Seurat</string>
+    <string name="mona_lisa_artist">Leonardo Da Vinci</string>
+
+    <string name ="the_starry_night_year">1889</string>
+    <string name ="the_kiss_year">1907–1908</string>
+    <string name ="the_garden_of_earthly_delights_year">1503–1515</string>
+    <string name ="the_birth_of_venus_year">1484–1486</string>
+    <string name ="girl_with_a_pearl_earring_year">1665</string>
+    <string name ="arrangement_in_grey_and_black_no__1_year">1871</string>
+    <string name ="les_demoiselles_davignon_year">1907</string>
+    <string name ="the_arnolfini_portrait_year">1434</string>
+    <string name ="sunday_afternoon_on_the_island_of_la_grande_jatte_year">1884–1886</string>
+    <string name ="mona_lisa_year">1503–19</string>
+
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+</resources>
